@@ -1,0 +1,30 @@
+_repo: The-Railroad-Questionremedies-for-their-abuses_29294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Larrabee, William
+    birthdate: 1832
+    deathdate: 1912
+    gutenberg_agent_id: '33821'
+    url: http://www.gutenberg.org/2009/agents/33821
+description: ''
+gutenberg_issued: '2009-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29294'
+  lccn: 02020691
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads'
+- !lcc 'HE'
+- !lcsh 'Railroads and state -- United States'
+- !lcsh 'Railroads -- United States'
+title: "The Railroad Question\r\nA historical and practical treatise on railroads,\
+  \ and remedies for their abuses"
+url: http://www.gutenberg.org/ebooks/29294
